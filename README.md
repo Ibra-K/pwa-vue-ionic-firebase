@@ -1,4 +1,6 @@
-# pwa-vue-ionic
+# pwa-vue-ionic-firebase
+Zipcode city finder PWA built with Vue.js and Ionic 4 using the @ionic/vue package and the @vue/pwa plugin
+& Firebase
 
 ## Project setup
 ```
@@ -14,16 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
